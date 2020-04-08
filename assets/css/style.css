@@ -1,0 +1,19 @@
+body {
+    height: 100vh
+    margin:0;
+    }
+    img{
+    position: absolute;
+    width:97vw;
+    height: 100vh;
+    }
+    h1,h5{
+    color: white;
+    position: relative;
+    left: 70vw;
+    top: 20vh;
+    height: 15px;
+    }
+    h5{
+    margin-left: 4.5vw;
+    }
